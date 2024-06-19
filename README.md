@@ -6,7 +6,7 @@
 
 
 
-<img align="right" height="300" src="/IMG_0107.JPG"  />
+<img align="right" height="300" src="/nowful.jpeg"  />
 
 <h3 align="left">👩‍💻  About Me</h3>
 
