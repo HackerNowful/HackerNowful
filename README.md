@@ -6,7 +6,7 @@
 
 
 
-<img align="right" height="250" src="https://res.cloudinary.com/gurucom/image/upload/w_96,h_96,f_auto,dpr_2/v1711125940/pimg/FreelancerFiles/2/992/2992992/xbrixpjqh0yzkvkckm1b.jpg"  />
+<img align="right" height="300" src="/IMG_0107.JPG"  />
 
 <h3 align="left">👩‍💻  About Me</h3>
 
